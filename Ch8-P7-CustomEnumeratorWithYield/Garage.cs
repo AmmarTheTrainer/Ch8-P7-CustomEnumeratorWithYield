@@ -21,7 +21,10 @@ namespace Ch8_P6_CustomEnumerator
 
         public IEnumerator GetEnumerator()
         {
-            return carArray.GetEnumerator();
+            //foreach (Car c in carArray)
+            //{
+            //    yield return c;
+            //}
 
             yield return carArray[0];
             yield return carArray[1];
