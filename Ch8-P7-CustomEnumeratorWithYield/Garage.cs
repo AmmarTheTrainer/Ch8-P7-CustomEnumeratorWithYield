@@ -22,6 +22,11 @@ namespace Ch8_P6_CustomEnumerator
         public IEnumerator GetEnumerator()
         {
             return carArray.GetEnumerator();
+
+            yield return carArray[0];
+            yield return carArray[1];
+            yield return carArray[2];
+            yield return carArray[3];
         }
     }
 }
