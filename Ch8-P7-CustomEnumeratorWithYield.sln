@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch8-P7-CustomEnumeratorWithYield", "Ch8-P7-CustomEnumeratorWithYield\Ch8-P7-CustomEnumeratorWithYield.csproj", "{2E3ACCCF-BED7-4354-AA7A-6C136484992C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E3ACCCF-BED7-4354-AA7A-6C136484992C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E3ACCCF-BED7-4354-AA7A-6C136484992C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E3ACCCF-BED7-4354-AA7A-6C136484992C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E3ACCCF-BED7-4354-AA7A-6C136484992C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB960518-AA2E-4E09-B732-70F76B3556A5}
+	EndGlobalSection
+EndGlobal
